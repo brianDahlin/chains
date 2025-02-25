@@ -9931,7 +9931,7 @@
   "faucets": ["https://airdrop.somanetwork.io"],
   "infoURL": "https://somanetwork.io"
 }, {
-  "name": "Atleta",
+  "name": "Atleta Olympia",
   "chainId": 2340,
   "shortName": "olym",
   "networkId": 2340,
@@ -10152,7 +10152,7 @@
   "faucets": [],
   "infoURL": "https://standardweb3.com"
 }, {
-  "name": "Atleta Mainnet",
+  "name": "Atleta Network",
   "chainId": 2440,
   "shortName": "atla",
   "networkId": 2440,
