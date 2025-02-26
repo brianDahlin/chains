@@ -631,6 +631,14 @@
     "format": "png"
   }]
 }, {
+  "name": "statemesh",
+  "icons": [{
+    "url": "ipfs://Qmc7KBcdrXMKvaq1xN6mubEqpvHdheFxs1YGZwZgLEPDrK",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "nowchain",
   "icons": [{
     "url": "ipfs://QmSUzhRGzMyMyGwBcE3ooZ5jvHKyJ1FjVjh5SfoGHG36MX",

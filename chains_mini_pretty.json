@@ -16392,6 +16392,19 @@
   "faucets": [],
   "infoURL": "https://islamiccoin.net"
 }, {
+  "name": "StateMesh Testnet",
+  "chainId": 11343,
+  "shortName": "mesh-test",
+  "networkId": 11343,
+  "nativeCurrency": {
+    "name": "StateMesh",
+    "symbol": "MESH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-test.statemesh.net"],
+  "faucets": ["https://faucet.statemesh.net"],
+  "infoURL": "https://statemesh.net"
+}, {
   "name": "Shyft Testnet",
   "chainId": 11437,
   "shortName": "shyftt",
@@ -21393,7 +21406,7 @@
     "symbol": "BERA",
     "decimals": 18
   },
-  "rpc": ["https://rpc.berachain.com", "https://berachain-rpc.publicnode.com", "wss://berachain-rpc.publicnode.com"],
+  "rpc": ["https://rpc.berachain.com", "https://berachain-rpc.publicnode.com", "wss://berachain-rpc.publicnode.com", "https://rpc.berachain-apis.com", "wss://rpc.berachain-apis.com"],
   "faucets": [],
   "infoURL": "https://www.berachain.com"
 }, {
@@ -26038,6 +26051,19 @@
   "faucets": [],
   "infoURL": "https://debank.com"
 }, {
+  "name": "Alterscope Testnet",
+  "chainId": 2022091,
+  "shortName": "AlterscopeTest",
+  "networkId": 2022091,
+  "nativeCurrency": {
+    "name": "RISK Test Token",
+    "symbol": "RISKT",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://alterscope.org"
+}, {
   "name": "Plian Mainnet Main",
   "chainId": 2099156,
   "shortName": "plian-mainnet",
@@ -27389,6 +27415,19 @@
   "rpc": ["https://rpc.testnet.fluence.dev/", "wss://ws.testnet.fluence.dev/"],
   "faucets": [],
   "infoURL": "https://fluence.network/"
+}, {
+  "name": "dKargo Warehouse Testnet",
+  "chainId": 61022448,
+  "shortName": "dkargowarehouse",
+  "networkId": 61022448,
+  "nativeCurrency": {
+    "name": "dKargo",
+    "symbol": "DKA",
+    "decimals": 18
+  },
+  "rpc": ["https://warehouse-full01.dkargo.io"],
+  "faucets": [],
+  "infoURL": "https://dkargo.io"
 }, {
   "name": "Aquachain",
   "chainId": 61717561,
